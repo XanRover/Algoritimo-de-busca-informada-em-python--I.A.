@@ -20,7 +20,7 @@ Este repositório contém a implementação de um dos algoritmos de IA, baseados
 </p>
 
 
-    | Primeiro cabeçalho        |  Segundo cabeçalho  |
+    | Cidades        |  Distância(linha reta)  |
     | -------------------       | ------------------- |
     |  Rosário Oeste	        |                     91 |  
     |  Jangada	                |                     58 |  
@@ -37,8 +37,8 @@ Este repositório contém a implementação de um dos algoritmos de IA, baseados
     |  Campo Verde	                |                     97 |  
     |  Pedra Preta	                |                    207 |  
     |  Pontes e Lacerda	        |                    352 |  
-    |  Tangará da Serra         |                    185 |  
-    |  Diamantino	            |                    135 |  
+    |  Tangará da Serra             |                    185 |  
+    |  Diamantino	                |                    135 |  
     
 
 
