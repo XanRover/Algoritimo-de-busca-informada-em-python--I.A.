@@ -20,8 +20,8 @@ Este repositório contém a implementação de um dos algoritmos de IA, baseados
 </p>
 
 
-    | Cidades                       |  Distância(linha reta)  |
-    | --------------------------  | ----------------------- |
+    | Cidades                       |   Distância(linha reta)|
+    | ---------------------------  | ------------------------ |
     |  Rosário Oeste	        |                     91 |  
     |  Jangada	                |                     58 |  
     |  Barra do Bugres	        |                    132 |  
