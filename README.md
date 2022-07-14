@@ -20,8 +20,9 @@ Este repositório contém a implementação de um dos algoritmos de IA, baseados
 </p>
   
  <p align="center">
-  <br>Tabela: Tabela distancia de ada cidade em linha reta até a cidade objetivo Cuiabá.
-</p>   
+    <br>Tabela: Tabela distancia das cidades em linha reta até a cidade objetivo - Cuiabá.
+ </p>
+ 
                                         | Cidades                       |   Distância(linha reta)|
                                         | ------------------------      | ---------------------- |
                                         |  Rosário Oeste	        |                     91 |  
