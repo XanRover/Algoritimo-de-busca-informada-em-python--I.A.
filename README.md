@@ -20,25 +20,25 @@ Este repositório contém a implementação de um dos algoritmos de IA, baseados
 </p>
 
 
-    | Cidades                |   Distância(linha reta)|
-    | ---------------------- | ---------------------- |
-    |  Rosário Oeste	     |                     91 |  
-    |  Jangada	             |                     58 |  
-    |  Barra do Bugres	     |                    132 |  
-    |  Poconé	             |                     97 |  
-    |  Cáceres	             |                    180 |  
-    |  Varzea Grande	     |                      7 |  
-    |  Cuiabá	             |                      0 |  
-    |  Chapada dos Guimarães |    	               37 |  
-    |  Jaciara	             |                    126 |  
-    |  Rondonópolis	         |                    183 |  
-    |  Poxoréu	             |                    184 |  
-    |  Primavera do Leste	 |                    190 |  
-    |  Campo Verde	         |                     97 |  
-    |  Pedra Preta	         |                    207 |  
-    |  Pontes e Lacerda	     |                    352 |  
-    |  Tangará da Serra      |                    185 |  
-    |  Diamantino	         |                    135 |  
+    | Cidades                   |   Distância(linha reta)|
+    | ----------------------    | ---------------------- |
+    |  Rosário Oeste	        |                     91 |  
+    |  Jangada	                |                     58 |  
+    |  Barra do Bugres	        |                    132 |  
+    |  Poconé	                |                     97 |  
+    |  Cáceres	                |                    180 |  
+    |  Varzea Grande	        |                      7 |  
+    |  Cuiabá	                |                      0 |  
+    |  Chapada dos Guimarães    |    	              37 |  
+    |  Jaciara	                |                    126 |  
+    |  Rondonópolis	            |                    183 |  
+    |  Poxoréu	                |                    184 |  
+    |  Primavera do Leste	    |                    190 |  
+    |  Campo Verde	            |                     97 |  
+    |  Pedra Preta	            |                    207 |  
+    |  Pontes e Lacerda	        |                    352 |  
+    |  Tangará da Serra         |                    185 |  
+    |  Diamantino	            |                    135 |  
     
 
 
