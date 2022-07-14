@@ -57,14 +57,14 @@ Este repositório contém a implementação de um dos algoritmos de IA, baseados
                                         |  Cuiabá	                    |                      0 |  
                                         |  Chapada dos Guimarães        |    	              64 |  
                                         |  Jaciara	                    |                    143 |  
-                                        |  Rondonópolis	                |                    216 |  
+                                        |  Rondonópolis	            |                    216 |  
                                         |  Poxoréu	                    |                    252 |  
-                                        |  Primavera do Leste	        |                    237 |  
-                                        |  Campo Verde	                |                    138 |  
-                                        |  Pedra Preta	                |                    244 |  
+                                        |  Primavera do Leste	    |                    237 |  
+                                        |  Campo Verde	            |                    138 |  
+                                        |  Pedra Preta	            |                    244 |  
                                         |  Pontes e Lacerda	            |                    443 |  
                                         |  Tangará da Serra             |                    242 |  
-                                        |  Diamantino	                |                    201 |  
+                                        |  Diamantino	            |                    201 |  
 
 
 
