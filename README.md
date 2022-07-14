@@ -31,11 +31,11 @@ Este repositório contém a implementação de um dos algoritmos de IA, baseados
     |  Cuiabá	                |                      0 |  
     |  Chapada dos Guimarães        |    	              37 |  
     |  Jaciara	                |                    126 |  
-    |  Rondonópolis	            |                    183 |  
+    |  Rondonópolis	                |                    183 |  
     |  Poxoréu	                |                    184 |  
-    |  Primavera do Leste	    |                    190 |  
-    |  Campo Verde	            |                     97 |  
-    |  Pedra Preta	            |                    207 |  
+    |  Primavera do Leste	        |                    190 |  
+    |  Campo Verde	                |                     97 |  
+    |  Pedra Preta	                |                    207 |  
     |  Pontes e Lacerda	        |                    352 |  
     |  Tangará da Serra         |                    185 |  
     |  Diamantino	            |                    135 |  
