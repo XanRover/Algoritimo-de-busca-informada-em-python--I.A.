@@ -29,7 +29,7 @@ Este repositório contém a implementação de um dos algoritmos de IA, baseados
     |  Cáceres	                |                    180 |  
     |  Varzea Grande	        |                      7 |  
     |  Cuiabá	                |                      0 |  
-    |  Chapada dos Guimarães    |    	              37 |  
+    |  Chapada dos Guimarães        |    	              37 |  
     |  Jaciara	                |                    126 |  
     |  Rondonópolis	            |                    183 |  
     |  Poxoréu	                |                    184 |  
