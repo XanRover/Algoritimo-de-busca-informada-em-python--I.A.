@@ -20,8 +20,8 @@ Este repositório contém a implementação de um dos algoritmos de IA, baseados
 </p>
 
 
-    | Primeiro cabeçalho  |  Segundo cabeçalho  |
-    | ------------------- | ------------------- |
+    | Primeiro cabeçalho        |  Segundo cabeçalho  |
+    | -------------------       | ------------------- |
     |  Rosário Oeste	        |                     91 |  
     |  Jangada	                |                     58 |  
     |  Barra do Bugres	        |                    132 |  
