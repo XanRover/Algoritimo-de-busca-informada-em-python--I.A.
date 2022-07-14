@@ -25,41 +25,44 @@ Este repositório contém a implementação de um dos algoritmos de IA, baseados
  
                                         | Cidades                       |   Distância(linha reta)|
                                         | ------------------------      | ---------------------- |
-                                        |  Rosário Oeste	        |                     91 |  
-                                        |  Jangada	                |                     58 |  
-                                        |  Barra do Bugres	        |                    132 |  
-                                        |  Poconé	                |                     97 |  
-                                        |  Cáceres	                |                    180 |  
-                                        |  Varzea Grande	        |                      7 |  
-                                        |  Cuiabá	                |                      0 |  
+                                        |  Rosário Oeste	            |                     91 |  
+                                        |  Jangada	                    |                     58 |  
+                                        |  Barra do Bugres	            |                    132 |  
+                                        |  Poconé	                    |                     97 |  
+                                        |  Cáceres	                    |                    180 |  
+                                        |  Varzea Grande	            |                      7 |  
+                                        |  Cuiabá	                    |                      0 |  
                                         |  Chapada dos Guimarães        |    	              37 |  
-                                        |  Jaciara	                |                    126 |  
+                                        |  Jaciara	                    |                    126 |  
                                         |  Rondonópolis	                |                    183 |  
-                                        |  Poxoréu	                |                    184 |  
+                                        |  Poxoréu	                    |                    184 |  
                                         |  Primavera do Leste	        |                    190 |  
                                         |  Campo Verde	                |                     97 |  
                                         |  Pedra Preta	                |                    207 |  
-                                        |  Pontes e Lacerda	        |                    352 |  
+                                        |  Pontes e Lacerda	            |                    352 |  
                                         |  Tangará da Serra             |                    185 |  
                                         |  Diamantino	                |                    135 |  
+                                        
+                                        
+                                        
 
                                         | Cidades                       |   Distância(em rodovia)|
                                         | ------------------------      | ---------------------- |
-                                        |  Rosário Oeste	        |                    129 |  
-                                        |  Jangada	                |                     75 |  
-                                        |  Barra do Bugres	        |                    168 |  
-                                        |  Poconé	                |                    102 |  
-                                        |  Cáceres	                |                    222 |  
-                                        |  Varzea Grande	        |                      7 |  
-                                        |  Cuiabá	                |                      0 |  
+                                        |  Rosário Oeste	            |                    129 |  
+                                        |  Jangada	                    |                     75 |  
+                                        |  Barra do Bugres	            |                    168 |  
+                                        |  Poconé	                    |                    102 |  
+                                        |  Cáceres	                    |                    222 |  
+                                        |  Varzea Grande	            |                      7 |  
+                                        |  Cuiabá	                    |                      0 |  
                                         |  Chapada dos Guimarães        |    	              64 |  
-                                        |  Jaciara	                |                    143 |  
+                                        |  Jaciara	                    |                    143 |  
                                         |  Rondonópolis	                |                    216 |  
-                                        |  Poxoréu	                |                    252 |  
+                                        |  Poxoréu	                    |                    252 |  
                                         |  Primavera do Leste	        |                    237 |  
                                         |  Campo Verde	                |                    138 |  
                                         |  Pedra Preta	                |                    244 |  
-                                        |  Pontes e Lacerda	        |                    443 |  
+                                        |  Pontes e Lacerda	            |                    443 |  
                                         |  Tangará da Serra             |                    242 |  
                                         |  Diamantino	                |                    201 |  
 
