@@ -20,7 +20,7 @@ Este repositório contém a implementação de um dos algoritmos de IA, baseados
 </p>
 
 <p align="center">
-    | Cidades  |                 Distância(linha reta)|
+    | Cidades                |   Distância(linha reta)|
     | ---------------------- | ---------------------- |
     |  Rosário Oeste	     |                     91 |  
     |  Jangada	             |                     58 |  
@@ -39,26 +39,6 @@ Este repositório contém a implementação de um dos algoritmos de IA, baseados
     |  Pontes e Lacerda	     |                    352 |  
     |  Tangará da Serra      |                    185 |  
     |  Diamantino	         |                    135 |  
-
-    | Cidades  |                 Distância(em rodovia)|
-    | ---------------------- | ---------------------- |
-    |  Rosário Oeste	     |                    129 |  
-    |  Jangada	             |                     75 |  
-    |  Barra do Bugres	     |                    168 |  
-    |  Poconé	             |                    102 |  
-    |  Cáceres	             |                    222 |  
-    |  Varzea Grande	     |                      7 |  
-    |  Cuiabá	             |                      0 |  
-    |  Chapada dos Guimarães |    	               64 |  
-    |  Jaciara	             |                    143 |  
-    |  Rondonópolis	         |                    216 |  
-    |  Poxoréu	             |                    252 |  
-    |  Primavera do Leste	 |                    237 |  
-    |  Campo Verde	         |                    138 |  
-    |  Pedra Preta	         |                    244 |  
-    |  Pontes e Lacerda	     |                    443 |  
-    |  Tangará da Serra      |                    242 |  
-    |  Diamantino	         |                    201 |  
     
 
 </p>
