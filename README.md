@@ -19,6 +19,10 @@ Este repositório contém a implementação de um dos algoritmos de IA, baseados
   <br>Examplo: Grafo das cidades utilizadas para o algoritmo.
 </p>
 
+| Primeiro cabeçalho  |  Segundo cabeçalho  |
+| ------------------- | ------------------- |
+|  Célula de conteúdo |  Célula de conteúdo |
+|  Célula de conteúdo |  Célula de conteúdo |
 
 ### Estratégia de pesquisa informada:
 - Implementação de estratégias de pesquisa informadas
