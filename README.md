@@ -19,7 +19,7 @@ Este repositório contém a implementação de um dos algoritmos de IA, baseados
   <br>Examplo: Grafo das cidades utilizadas para o algoritmo.
 </p>
 
-<p align="center">
+
     | Cidades                |   Distância(linha reta)|
     | ---------------------- | ---------------------- |
     |  Rosário Oeste	     |                     91 |  
@@ -41,7 +41,7 @@ Este repositório contém a implementação de um dos algoritmos de IA, baseados
     |  Diamantino	         |                    135 |  
     
 
-</p>
+
 
 ### Estratégia de pesquisa informada:
 - Implementação de estratégias de pesquisa informadas
