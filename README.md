@@ -45,6 +45,11 @@ Este repositório contém a implementação de um dos algoritmos de IA, baseados
                                         
                                         
                                         
+  <p align="center">
+    <br>Tabela: Tabela distancia das cidades adjacentes de cada nó cidade em rodovia.
+ </p>                                      
+                                        
+                                        
 
                                         | Cidades                       |   Distância(em rodovia)|
                                         | ------------------------      | ---------------------- |
@@ -55,7 +60,7 @@ Este repositório contém a implementação de um dos algoritmos de IA, baseados
                                         |  Cáceres	                    |                    222 |  
                                         |  Varzea Grande	            |                      7 |  
                                         |  Cuiabá	                    |                      0 |  
-                                        |  Chapada dos Guimarães        |    	              64 |  
+                                        |  Chapada dos Guimarães        |    	          64 |  
                                         |  Jaciara	                    |                    143 |  
                                         |  Rondonópolis	            |                    216 |  
                                         |  Poxoréu	                    |                    252 |  
