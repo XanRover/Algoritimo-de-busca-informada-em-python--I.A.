@@ -23,6 +23,8 @@ Este repositório contém a implementação de um dos algoritmos de IA, baseados
     <br>Tabela: Tabela distancia das cidades em linha reta até a cidade objetivo - Cuiabá.
  </p>
  
+ 
+ 
                                         | Cidades                       |   Distância(linha reta)|
                                         | ------------------------      | ---------------------- |
                                         |  Rosário Oeste	            |                     91 |  
@@ -43,37 +45,12 @@ Este repositório contém a implementação de um dos algoritmos de IA, baseados
                                         |  Tangará da Serra             |                    185 |  
                                         |  Diamantino	            |                    135 |  
                                         
-                                        
-                                        
-  <p align="center">
-    <br>Tabela: Tabela distancia das cidades adjacentes de cada nó cidade em rodovia.
- </p>                                      
-                                        
-                                        
-
-                                        | Cidades                       |   Distância(em rodovia)|
-                                        | ------------------------      | ---------------------- |
-                                        |  Rosário Oeste	            |                    129 |  
-                                        |  Jangada	                    |                     75 |  
-                                        |  Barra do Bugres	            |                    168 |  
-                                        |  Poconé	                    |                    102 |  
-                                        |  Cáceres	                    |                    222 |  
-                                        |  Varzea Grande	            |                      7 |  
-                                        |  Cuiabá	                    |                      0 |  
-                                        |  Chapada dos Guimarães        |    	          64 |  
-                                        |  Jaciara	                    |                    143 |  
-                                        |  Rondonópolis	            |                    216 |  
-                                        |  Poxoréu	                    |                    252 |  
-                                        |  Primavera do Leste	    |                    237 |  
-                                        |  Campo Verde	            |                    138 |  
-                                        |  Pedra Preta	            |                    244 |  
-                                        |  Pontes e Lacerda	            |                    443 |  
-                                        |  Tangará da Serra             |                    242 |  
-                                        |  Diamantino	            |                    201 |  
-
-
-
-
+                               
+                               
+                              
+                               
+                               
+                               
 ### Estratégia de pesquisa informada:
 - Implementação de estratégias de pesquisa informadas
 - Atribuição de programação
